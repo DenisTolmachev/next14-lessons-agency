@@ -1,5 +1,5 @@
 const Home = () => {
-  return <div>Hello World! Vercel test 1</div>;
+  return <div>Home</div>;
 };
 
 export default Home;
