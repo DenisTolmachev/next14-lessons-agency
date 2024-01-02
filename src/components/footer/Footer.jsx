@@ -6,7 +6,7 @@ const Footer = () => {
     <div className={styles.container}>
       <div className={styles.logo}>DennyDev</div>
       <div className={styles.text}>
-        Denny creative agency © All rights reserved.
+        Creative agency © All rights reserved.
       </div>
     </div>
   );
