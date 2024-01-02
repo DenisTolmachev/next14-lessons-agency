@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    height: 100px;
+    align-items: center;
+    justify-content: space-between;
+    border-top: solid 1px #e7e7e7e7;
+    color: gray;
+}
+
+.logo {
+    font-weight: bold;
+}
+.text {
+    font-size: 12px;
+}

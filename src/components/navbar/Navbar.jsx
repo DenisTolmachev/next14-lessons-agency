@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Links from "./links/Links";
 import React from "react";
 import styles from "./navbar.module.css";
@@ -5,7 +6,9 @@ import styles from "./navbar.module.css";
 const Navbar = () => {
   return (
     <div className={styles.container}>
-      <div className={styles.logo}>Denny`s Creative Agency</div>
+      <Link href="/" className={styles.logo}>
+        Creative Agency
+      </Link>
       <div>
         <Links />
       </div>

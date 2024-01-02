@@ -6,7 +6,7 @@ import Footer from "@/components/footer/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Denny`s Creative Agency",
+  title: "Creative Agency",
   description: "Next.js lesson",
 };
 
